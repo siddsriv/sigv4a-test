@@ -16,6 +16,7 @@ This repository contains test applications demonstrating the use of the pure Jav
    ```console
    cd node
    ```
+   
 2. Install dependencies:
   ```console
   npm install
@@ -57,7 +58,7 @@ npm run build
 
 5. Start the development server:
 ```console
-npm run server
+npm run serve
 ```
 
 Open your browser and navigate to http://localhost:8080
