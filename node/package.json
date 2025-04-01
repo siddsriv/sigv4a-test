@@ -1,0 +1,14 @@
+{
+    "name": "sigv4a-node-test",
+    "version": "1.0.0",
+    "description": "Test SigV4a in Node.js",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "dependencies": {
+      "@aws-sdk/client-s3": "^3.0.0",
+      "@aws-sdk/signature-v4-multi-region": "^3.0.0",
+      "@aws-sdk/signature-v4-crt": "^3.0.0"
+    }
+  }
