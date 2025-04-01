@@ -57,7 +57,7 @@ npm run build
 
 5. Start the development server:
 ```console
-npm run serve
+npm run server
 ```
 
 Open your browser and navigate to http://localhost:8080
