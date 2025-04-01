@@ -5,7 +5,7 @@ This repository contains test applications demonstrating the use of the pure Jav
 ## Prerequisites
 
 - Node.js 18 or later
-- AWS account with S3 Multi-Region Access Point configured ([Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiRegionAccessPointRequests.html))
+- AWS account with S3 Multi-Region Access Point (MRAP) configured ([Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiRegionAccessPointRequests.html))
 - AWS credentials with access to the S3 MRAP
 
 ## Node.js Example
