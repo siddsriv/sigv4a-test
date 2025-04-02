@@ -122,3 +122,6 @@ This example uses the JavaScript-based SigV4a implementation that works in brows
 - Both Node.js and browser examples use the pure JavaScript implementation (`@smithy/signature-v4a`) installed from local builds.
 - Both examples use S3 Multi-Region Access Point as the test case.
 - The actual package code is **not** included in this repository; it must be built and installed locally using the steps above.
+
+## Note
+The `node_modules` directory and `package-lock.json` has siddsriv's locally packed packages as per the steps above, if that works for you.
