@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/signature-v4-multi-region": "file:../aws-sdk-js-v3/packages/signature-v4-multi-region/package.tgz",
+    "@smithy/signature-v4a": "file:../smithy-typescript/packages/signature-v4a/package.tgz"
+  }
+}
